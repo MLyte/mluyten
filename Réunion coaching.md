@@ -1,14 +1,19 @@
+---
+
+
+---
+
 <h1 id="réunion-coaching">Réunion coaching</h1>
 <h2 id="entretien-individuel-cellule-communication---comité">Entretien individuel (Cellule communication - Comité)</h2>
 <ul>
 <li class="task-list-item">
-<p><input type="checkbox" class="task-list-item-checkbox" disabled=""> Création de publications Facebook sur les <strong>juniors</strong> : manque de productivité sur les réseaux de cette section</p>
+<p><input type="checkbox" class="task-list-item-checkbox" disabled=""> Création   publications Facebook sur les <strong>juniors</strong> : manque de productivité sur les réseaux de cette section</p>
 </li>
 <li class="task-list-item">
 <p><input type="checkbox" class="task-list-item-checkbox" disabled=""> Publications des <strong>anniversaires</strong> : autres posts à produire ? Des idées nouvelles ?</p>
 </li>
 <li class="task-list-item">
-<p><input type="checkbox" class="task-list-item-checkbox" disabled=""> Site internet : <em>satisfaction ?</em></p>
+<p><input type="checkbox" class="task-list-item-checkbox" disabled=""> Site internet : satisfaction ?</em></p>
 </li>
 <li class="task-list-item">
 <p><input type="checkbox" class="task-list-item-checkbox" disabled=""> Dossier de sponsoring : vancement ?</p>
@@ -27,14 +32,13 @@
 <h3 id="manque-de-communication-de-partage--principalement-avec-les-juniors">Manque de communication, de partage : principalement avec les juniors</h3>
 <ul>
 <li class="task-list-item">
-<p><input type="checkbox" class="task-list-item-checkbox" disabled=""> Création d’un groupe commun aux coaches pour y remédier</p>
+<p><input type="checkbox" class="task-list-item-checkbox" disabled=""> Création dun groupe commun aux coaches pour y remédier</p>
 </li>
 <li class="task-list-item">
-<p><input type="checkbox" class="task-list-item-checkbox" disabled=""> Manque d’implication de certains coachs : suivi du comité ?</p>
+<p><input type="checkbox" class="task-list-item-checkbox" disabled=""> Manque dimplication de certains coachs : suivi du comité ?</p>
 </li>
 </ul>
-<h3 id="no-sweat-no-glory">No sweat, no glory</h3>
-<p>Trouver un coach pour influer une hargne ?</p>
+<h3 id="no-sweat-no-glory">No sweat, no gloryTrouver un coach pour influer une hargne ?</p>
 <h3 id="hudl">Hudl</h3>
 <ul>
 <li class="task-list-item">
@@ -47,23 +51,23 @@
 <h2 id="collective-sections---comité">Collective (Sections - Comité)</h2>
 <ul>
 <li class="task-list-item">
-<p><input type="checkbox" class="task-list-item-checkbox" disabled=""> Création d’un calendrier partagé : évenements de chacun afin d’organiser plus facilement</p>
+<p><input type="checkbox" class="task-list-item-checkbox" disabled=""> Création dun calendrier partagé : évenements de chacun afin dorganiser plus facilement</p>
 </li>
 <li class="task-list-item">
-<p><input type="checkbox" class="task-list-item-checkbox" disabled=""> Teambuilding entre sections : renforcement impératif de l’ambiance entre les sections</p>
+<p><input type="checkbox" class="task-list-item-checkbox" disabled=""> Teambuilding entre sections : renforcement impératif de lambiance entre les sections</p>
 </li>
 </ul>
 <h2 id="notes">Notes</h2>
-<h3 id="ci-dessous-des-notes-que-jai-prises-à-lé-reunion-du-4-juillet-et-plus-bas-le-message-posté-sur-le-groupe-facebook-qui-y-fait-lien">Ci-dessous, des notes que j’ai prises à lé reunion du 4 juillet, et plus bas, le message posté sur le groupe Facebook qui y fait lien</h3>
+<h3 id="ci-dessous-des-notes-que-jai-prises-à-lé-reunion-du-4-juillet-et-plus-bas-le-message-posté-sur-le-groupe-facebook-qui-y-fait-lien">Ci-dessous, des notes que jai prises à lé reunion du 4 juillet, et plus bas, le message posté sur le groupe Facebook qui y fait lien</h3>
 <h3 id="réunion-coaching-4-juillet-2018--prise-de-notes">Réunion coaching 4 juillet 2018 : prise de notes</h3>
-<h4 id="match-contre-les-wildcats">Match contre les Wildcats</h4>
+<h4 id="match-contre-les-wildcatsMatch contre les Wildcats</h4>
 <ul>
 <li>Match le 15 octobre : retour en novembre chez nous si le premier se passe bien.</li>
 </ul>
 <h4 id="matchs-amicaux">Matchs amicaux</h4>
 <ul>
 <li>
-<p>Trouver d’autres amicaux :</p>
+<p>Trouver dautres amicaux :</p>
 </li>
 <li>
 <p>Pirates (D1), Tribes (Denis), Gators, Lions, Wolf</p>
@@ -94,7 +98,7 @@
 </li>
 </ul>
 <blockquote>
-<p>Organiser un camp d’entraînement ? (Grég)</p>
+<p>Organiser un camp dentraînement ? (Grég)</p>
 </blockquote>
 <h4 id="arrêt-de-coaches">Arrêt de coaches</h4>
 <ul>
@@ -105,16 +109,16 @@
 <p>Angelo : Revient comme joueur. Poste de coach à reprendre : LB/RB</p>
 </li>
 <li>
-<p>Denis : Hésite entre reprendre à jouer et continuer le coaching. (Absence tout le mois d’octobre)</p>
+<p>Denis : Hésite entre reprendre à jouer et continuer le coaching. (Absence tout le mois doctobre)</p>
 </li>
 </ul>
 <h4 id="ras-le-bol-du-manque-de-présence">Ras-le-bol du manque de présence</h4>
 <ul>
 <li>
-<p>“Tendre la carotte” : Donner envie aux joueurs de venir ?</p>
+<p>“Tendre la carotte : Donner envie aux joueurs de venir ?</p>
 </li>
 <li>
-<p>Rédaction d’un sondage dont les questions seraient : Qu’est-ce qui vous manque ? Qu’est-ce que vous voulez plus ? (Questions par tout le monde, gestion du sondage par Mathieu)</p>
+<p>Rédaction dun sondage dont les questions seraient : Quest-ce qui vous manque ? Quest-ce que vous voulez plus ? (Questions par tout le monde, gestion du sondage par Mathieu)</p>
 </li>
 </ul>
 <blockquote>
@@ -148,17 +152,17 @@
 </li>
 </ul>
 <h4 id="établir-un-calendrier-à-lannée">Établir un calendrier à l’année</h4>
-<p>Reprise de l’existant de Greg. Le préciser ?</p>
-<h4 id="points-négatifs-de-lannée-précédente">Points négatifs de l’année précédente</h4>
+<p>Reprise de lexistant de Greg. Le préciser ?</p>
+<h4 id="points-négatifs-de-lannée-précédente">Points négatifs de lannée précédente</h4>
 <ol>
 <li>
-<p>Manque d’envie des joueurs : pourquoi ne pas jouer pendant l’entraînement un minimum de phases.</p>
+<p>Manque d’envie des joueurs : pourquoi ne pas jouer pendant lentraînement un minimum de phases.</p>
 </li>
 <li>
 <p>Implication des joueurs : voir point 1 et 3</p>
 </li>
 <li>
-<p>Cohésion d’équipe : Extra-sportif (Air games ?)</p>
+<p>Cohésion déquipe : Extra-sportif (Air games ?)</p>
 </li>
 <li>
 <p>Suivi des objectifs fixés au coaching staff : par le comité ?</p>
@@ -173,14 +177,14 @@
 <p>Joueurs expérimentés : courbe de progression faible</p>
 </li>
 </ol>
-<h4 id="points-positifs-de-lannée-précédente">Points positifs de l’année précédente</h4>
+<h4 id="points-positifs-de-lannée-précédente">Points positifs de lannée précédente</h4>
 <ol>
 <li>
 <p>Mentalité du dernier match.</p>
 </li>
 <li>
-<p>Nouveaux joueurs experimentés ou/et qui ont fait du bien à l’équipe</p>
-</li>
+<p>Nouveaux joueurs experimentés ou/et qui ont fait du bien à léquipe</p>
+/li>
 <li>
 <p>Belle intégration des nouveaux joueurs</p>
 </li>
@@ -194,17 +198,17 @@
 <h4 id="quarrêter--que-continuer--que-mettre-en-place-">Qu’arrêter ? Que continuer ? Que mettre en place ?</h4>
 <ul>
 <li>
-<p>Coaching clinic : qu’aller suivre ? Par topic (@Greg)</p>
+<p>Coaching clinic : qualler suivre ? Par topic (@Greg)</p>
 </li>
 <li>
-<p>Inscrire les coachs sur x-and-o lab <a href="https://www.xandolabs.com/">Site de X and O</a></p>
+<p>Inscrire les coachs sur x-and-o lab <a href="https://www.xandolabs.c e</a></p>
 </li>
 <li>
 <p>Hudl ?</p>
 </li>
 </ul>
 <h4 id="team-service--jouer-des-plays-des-équipes-adverses">Team service : jouer des plays des équipes adverses</h4>
-<p>Trouver 5 points à mettre en confrontation à une tactique qui sort de notre playbook, afin d’avoir une réalité de jeu différente contre qui s’entraîner. Exemple : routes de receveurs avec 2 cuts.</p>
+<p>Trouver 5 points à mettre en confrontation à une tactique qui sort de notre playbook, afin davoir une réalité de jeu différente contre qui sentraîner. Exemple : routes de receveurs avec 2 cuts.</p>
 <h4 id="organisation-à-long-terme">Organisation à long terme</h4>
 <p>Voir “calendrier de l’année”</p>
 <h4 id="échanges-avec-les-coaches-junior-et-flag">Échanges avec les coaches junior et flag</h4>
@@ -231,7 +235,7 @@
 <ul>
 <li>Avez-vous été sur le Hudl ?</li>
 </ul>
-<p>Comptez-vous vous investir sur la plateforme et examiner, annoter, analyser, des plays au hasard pour commenter vos joueurs sur leur travail technique ? Je vous rappelle que si au 5 août rien n’a bougé, le comité ne nous prendra pas l’abonnement pour la saison prochaine …</p>
+<p>Comptez-vous vous investir sur la plateforme et examiner, annoter, analyser, des plays au hasard pour commenter vos joueurs sur leur travail technique ? Je vous rappelle que si au 5 août rien na bougé, le comité ne nous prendra pas labonnement pour la saison prochaine …</p>
 <ul>
 <li>Vous êtes-vous créé un compte sur X&amp;O Labs ? (<a href="https://www.xandolabs.com/">https://www.xandolabs.com/</a>)</li>
 </ul>
@@ -239,4 +243,7 @@
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2MzU1MzM3NDZdfQ==
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTc3OTIzNzc4XX0=
 -->
