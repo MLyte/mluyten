@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="réunion-coaching">Réunion coaching</h1>
 <h2 id="entretien-individuel-cellule-communication---comité">Entretien individuel (Cellule communication - Comité)</h2>
 <ul>
