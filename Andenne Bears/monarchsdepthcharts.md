@@ -3,8 +3,9 @@
 # Offense 
 
 # Quarterback
-Breyer Scott
-
+- Breyer Scott
+- Backup : Nicolas Matagne
+  
 # OL
 - Bal Jonathan
 - Catherine Noham
