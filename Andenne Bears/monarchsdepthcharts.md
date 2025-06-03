@@ -22,14 +22,12 @@
 
 ## Receveurs
 - Clarinval Antoine
-- Grégoire Bastian
 - Quertain Rémi
 - Recko Romain
 
 ## Runningbacks
 - Gilson Loic
-- Batiteyau Emile
-- Pirsoul Gaetan
+- ~Pirsoul Gaetan~
 
 ## Fullbacks
 - Leneffe Simon
@@ -40,6 +38,7 @@
 - Fallay Esteban
 - Heoutchou Nzami Ghislain
 - Fabritius Alexandre
+- Grégoire Bastian
 
 # Defense
 
