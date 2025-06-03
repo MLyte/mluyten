@@ -61,7 +61,7 @@
 - Recko Romain
 
 ### Safeties
-- Pirsoul Gaetan
+- ~Pirsoul Gaetan~
 - Sasha Van Ryssel (?)
 - Gilson Loic
 
