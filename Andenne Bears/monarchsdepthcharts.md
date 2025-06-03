@@ -62,7 +62,7 @@
 
 ### Safeties
 - ~Pirsoul Gaetan~
-- Sasha Van Ryssel (?)
+- Sasha Van Ryssel
 - Gilson Loic
 
 ## Linebackers
